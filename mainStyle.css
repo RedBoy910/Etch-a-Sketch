@@ -1,0 +1,29 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+}
+
+form{
+    display: block;
+    margin-top: 50px;
+}
+
+label{
+    font-size: 20px;
+}
+
+#resetButton{
+    margin-top: 40px;
+}
+
+#etchSpace{
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 300px;
+    width: 550px;
+    height: 550px;
+}
